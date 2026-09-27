@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "f743e94933ae5403",
+    "type": "split",
+    "children": [
+      {
+        "id": "03ce611d33795e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3da036c0dd37cea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career-Plan/01-upwork-profile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-upwork-profile"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9473cd2a0f335dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4319c1c185cdbf09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34bf52f626043759",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7224c537f710b86b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bc72b53f071d8bad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 403.5
+  },
+  "right": {
+    "id": "bfbda8f7cd7320de",
+    "type": "split",
+    "children": [
+      {
+        "id": "43ce760307e1eca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2753173e30d8408",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7bcf0e65891d2b5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1ee5c75e1f05fdb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f349be8ce48dd99b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "82d862144d690012",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3da036c0dd37cea7",
+  "lastOpenFiles": [
+    "Prompt.md",
+    "Career-Plan/05-genai-roadmap.md",
+    "Career-Plan/04-content-outreach.md",
+    "Career-Plan/03-daily-system.md",
+    "Career-Plan/02-offer-and-linkedin.md",
+    "Career-Plan/01-upwork-profile.md",
+    "Upwork_and_Freelancing/Upwork_Profile_Analysis_AI_Automation_Competitors.md",
+    "Upwork_and_Freelancing/Current_Upwork_Description.md",
+    "Career-Plan/context.md",
+    "Ubuntu System Snapshot - Pre LTS Upgrade.md",
+    "Career-Plan",
+    "Upwork_and_Freelancing/Freelance Career Blueprint.md",
+    "Upwork_and_Freelancing/My_Client_Feedback_on_Upwork.md",
+    "Upwork_and_Freelancing/Upwork Proposal Sample by upwork community.md",
+    "Upwork_and_Freelancing/Upwork Profiles of Top rated freelancer my research.md",
+    "Upwork_and_Freelancing/Upwork Profile Examples for Freelance Beginners by upwork community.md",
+    "Upwork_and_Freelancing/Professional_Headline_examples_by_upwork_community.md",
+    "Upwork_and_Freelancing/How to create proposal by upwork community.md",
+    "Upwork_and_Freelancing/15 tips to make your profile standout by upwork community.md",
+    "Upwork_and_Freelancing/Freelancer Focus Plan - Imtiaz.md",
+    "AI & MCP/MCP Server Building Prompt.md",
+    "Productized AI Services.md",
+    "Startup/Bangladeshi startups are building global revenue.md",
+    "Reddit",
+    "Upwork_and_Freelancing",
+    "Startup",
+    "AI & MCP/14 ways to make money with AI.md",
+    "AI & MCP",
+    "Reddit/Reddit-OpenClaw-Thread.md",
+    "Reddit/Reddit-N8N-Thread.md",
+    "Reddit/Reddit OpenClaw Setup Thread.md"
+  ]
+}
